@@ -6,6 +6,16 @@ Hopefully we can create a good single stop place to find a TokyoNight port for y
 
 
 # Themes For Specific Applications
-## Visual Studio 2022
-https://github.com/m1chaelbarry/tokyo-night-visual-studio-theme
+## Neovim
+https://github.com/TokyoNightTheme/tokyonight.nvim
 
+
+## Visual Studio 2022
+https://github.com/TokyoNightTheme/tokyo-night-visual-studio-theme
+
+
+## Visual Studio Code
+https://github.com/TokyoNightTheme/tokyo-night-vscode-theme
+
+## Windows Terminal
+https://github.com/TokyoNightTheme/tokyonight-windows-terminal
