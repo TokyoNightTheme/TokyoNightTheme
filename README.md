@@ -17,5 +17,11 @@ https://github.com/TokyoNightTheme/tokyo-night-visual-studio-theme
 ## Visual Studio Code
 https://github.com/TokyoNightTheme/tokyo-night-vscode-theme
 
+
 ## Windows Terminal
 https://github.com/TokyoNightTheme/tokyonight-windows-terminal
+
+
+## tmux
+https://github.com/TokyoNightTheme/tmux-tokyonight
+
